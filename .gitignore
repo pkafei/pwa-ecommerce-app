@@ -67,3 +67,10 @@ yarn-error.log
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
+
+# Chrome Lighthouse Output
+localhost_2019-12-04_16-30-22.report.html
+localhost_2019-12-04_16-31-31.report.html
+
+# NPM Package lock
+package-lock.json
