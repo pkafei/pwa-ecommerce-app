@@ -1,7 +1,7 @@
 ---
-title: It's all blue
+title: Buy Rebozos
 date: "2019-05-06"
-thumbnail: ./cody-davis-253928-unsplash.jpg
+thumbnail: ./Rebozos.jpg
 description: What if everything you knew was turned to blue?
 ---
 
