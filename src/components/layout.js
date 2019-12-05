@@ -10,7 +10,7 @@ const Layout = props => {
         <div className="site-head-container">
           <a
             className="nav-burger"
-            href={`#`}
+            href={`https://shop-oaxaca.netlify.com/`}
             onClick={() => setToggleNav(!toggleNav)}
           >
             <div
@@ -31,9 +31,6 @@ const Layout = props => {
               </li>
               <li className="nav-about" role="menuitem">
                 <Link to={`/about`}>About</Link>
-              </li>
-              <li className="nav-elements" role="menuitem">
-                <Link to={`/elements`}>Elements</Link>
               </li>
             </ul>
           </nav>
